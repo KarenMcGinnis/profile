@@ -2,6 +2,9 @@
 _______
 ## Team One Members
 Leslie Blackie
+##
 Karen McGinnis
+##
 Chris Weber
+##
 Lester Young
