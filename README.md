@@ -1,3 +1,7 @@
-# FOSS Spring 2021
+# FOSS Spring 2021 Team 1 Github page
 _______
-## This is a section
+## Team One Members
+Leslie Blackie
+Karen McGinnis
+Chris Weber
+Lester Young
