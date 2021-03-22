@@ -8,7 +8,7 @@ Karen McGinnis is an associate professor of biology at Florida State University 
 ## Chris Weber
 Chris Weber
 ## Lester Young
-Lester Young
+Lester Young is a Professional Research Associate in the Flax Breeding Program at the University of Saskatchewan. His work utilizes genomics, molecular biology and bioinformatics to develop improved flax lines. Current research projects include characterizing genetic loci for disease resistance and introducing germplasm from wild flax species to increase the genetic diversity of domesticated cultivars.
 
 # Data Management Plans
 
@@ -29,3 +29,5 @@ Period of Data Retention: All data will be retained for a minimum of three years
 
 Management of Intellectual Property:  Each university will decide whether to file patent applications protecting inventions that may be developed within the experimental aspects of this project at their institution, according to their normal policies and procedures.  All the investigators agree to disclose their intent to file a patent application to all other investigators in the program as soon as the decision to prepare a patent application is made.  In deciding inventorship, ownership, and rights to any invention, full and fair consideration will be given to any and all relevant contributions by other participants in the program.  
 
+## Lester Young DMP
+The Flax Breeding Program does not have a published DMP, however, many of the collaborative research projects have released NGS data to publically accessible databases such as NCBI's [Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra). We are also involved in Genome BC's [DivSeek project](https://github.com/DivSeek-Canada) which has developed tools to make plant genomic data more accessible. 
