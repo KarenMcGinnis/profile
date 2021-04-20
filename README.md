@@ -30,4 +30,16 @@ Period of Data Retention: All data will be retained for a minimum of three years
 Management of Intellectual Property:  Each university will decide whether to file patent applications protecting inventions that may be developed within the experimental aspects of this project at their institution, according to their normal policies and procedures.  All the investigators agree to disclose their intent to file a patent application to all other investigators in the program as soon as the decision to prepare a patent application is made.  In deciding inventorship, ownership, and rights to any invention, full and fair consideration will be given to any and all relevant contributions by other participants in the program.  
 
 ## Lester Young DMP
-The Flax Breeding Program does not have a published DMP, however, many of the collaborative research projects have released NGS data to publically accessible databases such as NCBI's [Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra). We are also involved in Genome BC's [DivSeek project](https://github.com/DivSeek-Canada) which has developed tools to make plant genomic data more accessible. 
+The Flax Breeding Program does not have a published DMP, however, many of the collaborative research projects have released NGS data to publically accessible databases such as NCBI's [Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra). We are also involved in Genome BC's [DivSeek project](https://github.com/DivSeek-Canada) which has developed tools to make plant genomic data more accessible.
+
+One of the things I found interesting and thought-provoking in the FOSS course was the discussion on Open Science and reproducibility. The discussion has introduced me to the possibilities of 
+incorporating Open Science in the Flax Breeding Program, particularly for managing, sharing and publishing data using FAIR principles. I am thinking of structuring new projects with a DMP and using 
+GitHub (or purchasing an institutional license for LabArchives). This has become particularly relevant as recently the Government of Canada Tri-Agency funding bodies have released their [Data 
+Management Policy](http://www.science.gc.ca/eic/site/063.nsf/eng/h_97610.html). This will eventually trickle down to all layers for government funding in Canada, so practicing good data management 
+and Open Science now will help for a smoother transition in the future.
+
+The importance of reproducibility and file management, particularly for bioinformatics rich projects, became more important while I was attending FOSS as I was in the process of submitting a 
+manuscript with a lot of bioinformatics analysis in it. Controlling file names and locations, versions of shell scripts and repeated analyses had become a real issue. I am intrigued by the 
+possibility of keeping this mess of data under control using `git` and being able to share it and being able to reuse the read data. For the capstone project I would have taken the scripts I used 
+for the manuscript and containerized it, or possibly explored *snakemake*. Hhowever, time did not permit this to occurr, so I am submitting some code and some sample data that could have been a 
+part of the capstone project.
